@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; /*Inputs nao vao ultrapassar a area maxima da div*/
+  font-family: 'Open Sans', sans-serif;
+}
+
+html, body, #root{
+  background-color: #efefef;
+  height: 100%; /*Vai garantir que o conteudo fique colado no fim da pagina*/
+
+}
